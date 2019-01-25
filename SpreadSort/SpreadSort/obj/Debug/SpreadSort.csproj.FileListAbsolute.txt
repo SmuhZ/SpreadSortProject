@@ -1,0 +1,6 @@
+c:\users\smuhz\documents\visual studio 2013\Projects\SpreadSort\SpreadSort\bin\Debug\SpreadSort.exe.config
+C:\Users\SmuhZ\Documents\Visual Studio 2013\Projects\SpreadSort\SpreadSort\bin\Debug\SpreadSort.exe
+C:\Users\SmuhZ\Documents\Visual Studio 2013\Projects\SpreadSort\SpreadSort\bin\Debug\SpreadSort.pdb
+C:\Users\SmuhZ\Documents\Visual Studio 2013\Projects\SpreadSort\SpreadSort\obj\Debug\SpreadSort.csprojResolveAssemblyReference.cache
+C:\Users\SmuhZ\Documents\Visual Studio 2013\Projects\SpreadSort\SpreadSort\obj\Debug\SpreadSort.exe
+C:\Users\SmuhZ\Documents\Visual Studio 2013\Projects\SpreadSort\SpreadSort\obj\Debug\SpreadSort.pdb
